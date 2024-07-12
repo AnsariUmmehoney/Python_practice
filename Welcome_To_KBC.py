@@ -40,7 +40,7 @@ for i in range(0 , len(questions)):
         elif (i == 14):
             Money = 10000000
     else :
-        print(f"wrong answer!")
+        print("wrong answer!")
         break
     
 
